@@ -104,7 +104,7 @@ class ImpossibleMode(ToolBar):
             self.enter_number.clear()
             self.enter_number.setFocus()
             return
-        if guess < 1 or guess > 50:
+        if guess < 1 or guess > 1000:
             self.feedback_label.setText(
                 "Please enter a number between 1 and 1000.")
             self.feedback_label.hide()
