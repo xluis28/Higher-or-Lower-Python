@@ -33,7 +33,7 @@ If this happens:
 After completing these steps, the application should open normally in the future.
 
 - [Click here to Download for WINDOWS](https://github.com/xluis28/Higher-or-Lower-Python/releases/download/v1.0.0/Higher-or-Lower.exe)
-### Note:** Windows may display a SmartScreen warning because the application is not digitally signed. If this happens, click **More info** and then **Run anyway**.
+### Note: Windows may display a SmartScreen warning because the application is not digitally signed. If this happens, click **More info** and then **Run anyway**.
 ## Welcome Screen
 
 ![Welcome](Images/Welcome.png)
