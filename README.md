@@ -27,7 +27,7 @@ Higher or Lower is a desktop number guessing game of luck and skill. It is built
 
 ## Welcome Screen
 
-![Welcome](images/welcome.png)
+![Welcome](images/Welcome.png)
 
 The main menu where the player can start the game or read the instructions.
 
@@ -35,7 +35,7 @@ The main menu where the player can start the game or read the instructions.
 
 ## Difficulty Selection
 
-![Difficulty](images/difficulty-selection.png)
+![Difficulty](images/Difficulty-selection.png)
 
 Choose between Easy, Medium, Hard, and Impossible.
 
@@ -43,7 +43,7 @@ Choose between Easy, Medium, Hard, and Impossible.
 
 ## Gameplay
 
-![Gameplay](images/gameplay.png)
+![Gameplay](images/Gameplay.png)
 
 Guess the secret number before you run out of lives.
 
@@ -51,6 +51,6 @@ Guess the secret number before you run out of lives.
 
 ## Instructions
 
-![Instructions](images/instructions.png)
+![Instructions](images/Instructions.png)
 
 Learn the rules and difficulty settings.
